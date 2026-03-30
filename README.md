@@ -1,7 +1,3 @@
-Here’s a **clean, professional README overview** tailored to your HTML file:
-
----
-
 # Visual Eyez Media — Website
 
 ## Overview
